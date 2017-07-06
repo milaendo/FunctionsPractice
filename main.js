@@ -25,7 +25,7 @@ function maxOfThree(num1, num2, num3){
     	return 'num3'
     }
 }
-console.log (maxOfThree(2,3,4)
+console.log (maxOfThree(2,3,4))
 
 // 3.
 // Write a function that takes a character (i.e. a string of length 1) and returns true if it is a vowel, false otherwise.
