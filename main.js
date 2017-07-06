@@ -54,7 +54,7 @@ console.log (sum (2,3))
 // Write a function named `avg` that takes 3 parameters and returns the average of those 3 numbers.
 // Then, write and example of using the function.
 function avg (num1,num2,num3){
-	return num1 * num2 * num3 / 3
+	return num1 + num2 + num3 / 3
 }
 console.log (avg(5,10,15))
 
